@@ -1,7 +1,7 @@
 <div align="center">
   <p>
-    <a href="https://github.com/Dazzy132/Dazzy132">
-      <img src="https://github-readme-stats.vercel.app/api?username=Dazzy132&count_private=true&show_icons=true&theme=github_dark">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=dazzy132&count_private=true&show_icons=true&theme=github_dark">
     </a>
   </p>
   <p>
