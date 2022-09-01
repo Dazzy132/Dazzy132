@@ -1,16 +1,12 @@
-### Hi there 👋
+<div align="center">
+  <p>
+    <a href="https://github.com/Dazzy132/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=Dazzy132&count_private=true&show_icons=true&theme=github_dark">
+    </a>
+  </p>
+  <p>
+</div>
 
-<!--
-**Dazzy132/Dazzy132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I can
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,ps,github,mysql,vscode)](https://skillicons.dev)
