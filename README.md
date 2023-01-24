@@ -9,4 +9,4 @@
 
 
 # What I can
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,ps,github,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,react,ts,ps,github,mysql,vscode)](https://skillicons.dev)
