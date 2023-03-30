@@ -10,3 +10,6 @@
 
 # What I can
 [![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,ts,react,redux,github,mysql,vscode)](https://skillicons.dev)
+
+Телеграм - https://t.me/Dazzy132
+Почта - vladsolo23rus@gmail.com
