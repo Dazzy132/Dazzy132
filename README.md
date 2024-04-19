@@ -9,7 +9,7 @@
 
 
 # Что я умею
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,react,redux,github,mysql,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,selenium,fastapi,html,css,js,react,github,docker,mysql,pycharm,webstorm)](https://skillicons.dev)
 
 # Связь со мной
 Телеграм - https://t.me/Dazzy132 <br>
